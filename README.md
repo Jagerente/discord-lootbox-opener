@@ -5,6 +5,8 @@
 > This project is intended for educational purposes only. Keep in mind that using this tool may violate the
 > [Discord Developer Terms of Service](https://support-dev.discord.com/hc/en-us/articles/8562894815383-Discord-Developer-Terms-of-Service).
 
+![image](https://github.com/Jagerente/discord-lootbox-opener/assets/47350537/28062b14-29de-48b2-b022-84b9580f0901)
+
 ## Build
 
 1. Download [Golang SDK 1.21.1+](https://go.dev/doc/install)
